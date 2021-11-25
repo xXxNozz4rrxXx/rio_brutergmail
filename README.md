@@ -2,7 +2,7 @@
 
 
 ## Getting Started
-1. ```git clone https://github.com/xHak9x/gmailhack.git```
+1. ```git clone https://github.com/xxxrioxxx/rio_brutergmail.git```
 2. ```cd gmailhack```
 3. ```python gmailhack.py ```
 
@@ -10,6 +10,6 @@
 - Kali Linux 
 - Cyborg
 - Parrot 
-- BackTrack 
+- BackTrack any version (den exei shmasia)
 - Backbox
 
